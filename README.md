@@ -33,16 +33,18 @@ This allowed me to learn the useState hook to manage state in a functional compo
 
 ## Video Walkthrough
 
-Click on the image below for a video walkthrough of implemented required features:
+Here's walkthrough of implemented required features:
 
-[![Video Walkthrough](https://img.youtube.com/vi/N00ojN9x84M/0.jpg)](https://youtu.be/N00ojN9x84M)
+<img src='food-truck-favorites\src\assets\gif\FoodTruckDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+[YouTube Video](https://youtu.be/N00ojN9x84M)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with SnippingToolS
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Malik Wensman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
