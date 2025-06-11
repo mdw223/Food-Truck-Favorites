@@ -40,7 +40,7 @@ Here's walkthrough of implemented required features:
 [YouTube Video](https://youtu.be/N00ojN9x84M)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with SnippingToolS
+GIF created with SnippingTool, Flixier for converting yt video to gif
 
 ## License
 
